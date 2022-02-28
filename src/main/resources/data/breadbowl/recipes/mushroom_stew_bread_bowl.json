@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "breadbowl:bread_bowl" },
+    {"item": "minecraft:brown_mushroom"},
+    {"item": "minecraft:red_mushroom"}
+  ],
+  "result": {
+    "item": "breadbowl:mushroom_stew_bread_bowl",
+    "count": 1
+  }
+}
+

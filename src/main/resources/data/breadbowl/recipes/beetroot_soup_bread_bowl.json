@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "breadbowl:bread_bowl" },
+    {"item": "minecraft:beetroot"},
+    {"item": "minecraft:beetroot"},
+    {"item": "minecraft:beetroot"},
+    {"item": "minecraft:beetroot"},
+    {"item": "minecraft:beetroot"},
+    {"item": "minecraft:beetroot"}
+  ],
+  "result": {
+    "item": "breadbowl:beetroot_soup_bread_bowl",
+    "count": 1
+  }
+}

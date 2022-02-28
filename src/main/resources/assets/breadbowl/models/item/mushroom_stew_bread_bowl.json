@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "breadbowl:item/mushroom_stew_bread_bowl"
+    }
+}

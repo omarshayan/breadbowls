@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "breadbowl",
+  "version": "${version}",
+  "name": "Breadbowls",
+  "description": "",
+  "authors": [
+    "omar",
+    "owen"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/breadbowl/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "omar.breadbowl.breadbowl.client.BreadbowlClient"
+    ],
+    "main": [
+      "omar.breadbowl.breadbowl.Breadbowls"
+    ]
+  },
+  "mixins": [
+    "breadbowl.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.2",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}

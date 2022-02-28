@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "breadbowl:item/beetroot_soup_bread_bowl"
+    }
+}
